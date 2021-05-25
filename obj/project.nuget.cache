@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t+28fVCIB1jAa3U/xxAfbRKSRPGjVQNpf2FwdPvbMtgZxcphzrIeXJJfeJV1NJUn/mMP3b+CdIBFUjc53KTrIg==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\Dev\\C# DotNet\\Web Apps\\ScrapeTheWeb\\ScrapeTheWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wazi\\.nuget\\packages\\htmlagilitypack\\1.11.33\\htmlagilitypack.1.11.33.nupkg.sha512"
+  ],
+  "logs": []
+}
